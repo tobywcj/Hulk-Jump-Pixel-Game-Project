@@ -4,9 +4,9 @@ inspired by GameBoy, Street Fighter, and Super Mario Bros. Object-oriented progr
 
 # Release/Demo Version
 ## ***Tutorial Option***
-https://youtube.com/shorts/W21ZPGGsOWk?feature=share
+https://youtu.be/iV1mVVSDnE4
 ## ***Game Demo***
-https://youtu.be/PF6_sAMtgyU
+https://youtu.be/Hh88horSPFw
 
 # Game Features
 |Interaction of the characters|
